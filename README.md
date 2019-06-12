@@ -2,6 +2,6 @@
 
 By Howard Wang
 
-Using Anime.js
+Powered by Anime.js
 
 ![Animation](https://github.com/hwanggit/GirlsStemFair/blob/master/Anime.png)

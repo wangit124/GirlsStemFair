@@ -1,3 +1,7 @@
-### Demonstration of Web Development Concepts for Girl's Stem Fair 2019
+## Demonstration of Web Development Concepts for Girl's Stem Fair 2019
 
-![Animation]()
+By Howard Wang
+
+Using Anime.js
+
+![Animation](https://github.com/hwanggit/GirlsStemFair/blob/master/Anime.png)
